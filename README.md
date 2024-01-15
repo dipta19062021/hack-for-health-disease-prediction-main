@@ -85,11 +85,13 @@ Deploy the model for predicting Parkinson's disease, with streamlit io.
     
 
 ## 2.features:
+
 1. few blank spaces are present there to fill up the report status.
 2. A submit button is present to submit the filled places.
 3. Side menu bar is present to select three different disease prediction.
    
-## 3.Installetion
+## 3.Installetion:
+
 1.I have installed streamlit , a python library to deploy machine learning models.
 2.Moreover, sklearn, pandas and matplotlib has been imported in the machine learning code.
 
